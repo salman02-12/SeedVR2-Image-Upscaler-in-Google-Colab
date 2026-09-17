@@ -2,7 +2,7 @@
 
 This repository contains an easy-to-use Google Colab notebook for running the **SeedVR2 Image Upscaler**. Powered by ComfyUI, this tool allows you to take any image and upscale it to a stunning high resolution using the SeedVR2 DiT (3B) model, entirely for free.
 
-**🎥 Watch the Tutorial:** [Video Coming Soon](https://www.youtube.com/watch?v=coomingsoon)
+**🎥 Watch the Tutorial:** [Setup SeedVR2 Image Upscaler in Google Colab](https://www.youtube.com/watch?v=uejQAq8Qyvg)
 
 **🚀 Run in Colab:** [Open Google Colab Notebook](https://colab.research.google.com/drive/1HnZDK63Q8dlaDGmfxW7VLauAJINE_a-V?usp=sharing)
 
