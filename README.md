@@ -8,6 +8,8 @@ This repository contains an easy-to-use Google Colab notebook for running the **
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/salman02-12/SeedVR2-Image-Upscaler-in-Google-Colab/blob/main/SeedVR2_Upscaler_CoinNoin.ipynb)
 
+[![Get Pro](https://img.shields.io/badge/Get%20Pro-PayPal-blue?logo=paypal)](https://www.paypal.com/ncp/payment/WLNTXC6SHQUTJ)
+
 ---
 <img src="./thumbnail.png" width="100%" />
 
